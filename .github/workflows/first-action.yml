@@ -11,4 +11,4 @@ jobs:
       - name: Multiecho 
         run: |
               echo "First output"
-              echo: "Second output"
+              echo "Second output"
